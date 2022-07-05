@@ -41,4 +41,4 @@ Try it yourself!
 0 0
 0 NOR 0 = 0.971326
 ```
-
+![cool!](https://xirei.moe/uploader/?f=ezol1gd7.png)
