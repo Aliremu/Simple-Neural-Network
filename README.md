@@ -1,7 +1,7 @@
 
 # Simple Neural Network
 
-A Simple Neural Network for... I don't really know the full extend to what this can do. I do know however that it can accurately predict and replicate any bitwise operator with more than 97% accuracy with only 5 seconds of training. Wow!!!!
+A Simple Neural Network for... I don't really know the full extent to what this can do. I do know however that it can accurately predict and replicate any bitwise operator with more than 97% accuracy with only 5 seconds of training. Wow!!!!
 
 Edit: it can approximate trig functions!!!??!? what wizardry is this.
 
