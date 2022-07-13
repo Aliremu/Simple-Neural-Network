@@ -45,7 +45,7 @@ Try it yourself!
 ```
 ![cool!](https://xirei.moe/uploader/?f=ezol1gd7.png)
 
-#Example with sin(x)
+##Example with sin(x)
 ```
 Training...
 Results!
